@@ -1,0 +1,7 @@
+encontrou = 0;
+ 	for(i=0; i < tamanho; i++){
+ 		if(valorembusca == vetor[i]){
+ 			encontrou=1;
+ 			x = i;
+ 		}
+	}
